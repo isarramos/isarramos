@@ -28,4 +28,4 @@ SVG](https://readme-typing-svg.herokuapp.com/?font=Seymour+One&color=F08080&size
             style="border-radius: 30px" target="_blank"></a>
 </div>
 <br>
-<img width=100% src="https://capsule-render.vercel.app/api?type=wave&color=F08080&height=160&section=footer" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=wave&color=F08080&height=160&section=footer"/>
