@@ -6,7 +6,8 @@ SVG](https://readme-typing-svg.herokuapp.com/?font=Seymour+One&color=F08080&size
         height="250px">
 </h1>
 <div align="center">
-    
+    <img height="180em" 
+        src="https://github-readme-stats.vercel.app/api?username=isarramos&show_icons=true&theme=onedark&include_all_commits=true&count_private=true">
     <h4>Main skills:</h4>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px" />&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" />&nbsp;
