@@ -1,5 +1,5 @@
 [![Typing
-SVG](https://readme-typing-svg.herokuapp.com/?font=Seymour+One&color=F08080&size=25&center=true&vCenter=true&width=1000&lines=Welcome+to+my+github!;I'm+Isa%2C+21y;Student+Developer+:%29)](https://git.io/typing-svg)
+SVG](https://readme-typing-svg.herokuapp.com/?font=Seymour+One&color=F08080&size=25&center=true&vCenter=true&width=1000&lines=Welcome+to+my+github!;I'm+Isa%2C+22y;Student+Developer+:%29)](https://git.io/typing-svg)
 <br>
 <h1 align="center">
     <img src="https://user-images.githubusercontent.com/112832296/210463060-97201885-8340-4e3f-936e-ef5653a3f05c.png"
