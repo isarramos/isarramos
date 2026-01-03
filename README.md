@@ -35,11 +35,11 @@ I work with data modeling, dashboards, and insights generation using **SQL, Powe
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="50px" />&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50px" />&nbsp;
 
-    <h4>Studying:</h4>
+<h4>Studying:</h4>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px" />&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50px" />&nbsp;
 
-    <h4>New Friend?</h4>
+<h4>New Friend?</h4>
     <a href="https://www.linkedin.com/in/isabella-ramos-1b0b41248" target="_blank">
         <img src="https://img.shields.io/badge/-Isabella%20Mata-F08080?style=for-the-badge&logo=linkedin&logoColor=white"
             style="border-radius: 30px">
